@@ -1,0 +1,35 @@
+No-division Team	W	L	T	 Pct	PF	PA	Net Pts	TD	Home	Road	Div	Pct	Conf	Pct	Non-Conf	Streak	Last 5
+Kansas City Chiefs	12	2	0	.857	371	170	201	40	6-1	6-1	0-0	.000	7-1	.875	5-1	5W	5-0
+Oakland Raiders	12	2	0	.857	453	233	220	55	6-1	6-1	0-0	.000	6-2	.750	6-0	8W	5-0
+New York Jets	11	3	0	.786	419	280	139	45	6-1	5-2	0-0	.000	7-1	.875	4-2	4W	4-1
+San Diego Chargers	9	5	0	.643	382	310	72	45	4-3	5-2	0-0	.000	5-3	.625	4-2	2L	2-3
+Houston Oilers	7	7	0	.500	303	248	55	38	3-4	4-3	0-0	.000	5-3	.625	2-4	2W	3-2
+Miami Dolphins	5	8	1	.385	276	355	-79	36	1-5-1	4-3	0-0	.000	4-3-1	.571	1-5	1L	2-3
+Denver Broncos	5	9	0	.357	255	404	-149	32	3-4	2-5	0-0	.000	1-7	.125	4-2	3L	1-4
+Boston Patriots	4	10	0	.286	229	406	-177	26	2-5	2-5	0-0	.000	2-6	.250	2-4	2L	1-4
+Cincinnati Bengals	3	11	0	.214	215	329	-114	25	2-5	1-6	0-0	.000	1-7	.125	2-4	3L	1-4
+Buffalo Bills	1	12	1	.077	199	367	-168	22	1-6	0-6-1	0-0	.000	1-6-1	.143	0-6	8L	0-5
+Capitol - 1968 Regular Season
+Capitol Division Team	W	L	T	 Pct	PF	PA	Net Pts	TD	Home	Road	Div	Pct	Conf	Pct	Non-Conf	Streak	Last 5
+Dallas Cowboys	12	2	0	.857	431	186	245	54	5-2	7-0	5-1	.833	9-1	.900	3-1	5W	5-0
+New York Giants	7	7	0	.500	294	325	-31	36	3-4	4-3	5-1	.833	7-3	.700	0-4	4L	1-4
+Washington Redskins	5	9	0	.357	249	358	-109	32	3-4	2-5	2-4	.333	3-7	.300	2-2	1W	1-4
+Philadelphia Eagles	2	12	0	.143	202	351	-149	21	1-6	1-6	0-6	.000	1-9	.100	1-3	1L	2-3
+Century - 1968 Regular Season
+Century Division Team	W	L	T	 Pct	PF	PA	Net Pts	TD	Home	Road	Div	Pct	Conf	Pct	Non-Conf	Streak	Last 5
+Cleveland Browns	10	4	0	.714	394	273	121	49	5-2	5-2	4-2	.667	7-3	.700	3-1	1L	4-1
+St. Louis Cardinals	9	4	1	.692	325	289	36	40	4-2-1	5-2	5-0-1	1.000	8-1-1	.889	1-3	4W	4-1
+New Orleans Saints	4	9	1	.308	246	327	-81	27	3-4	1-5-1	2-4	.333	3-7	.300	1-2-1	1W	1-3-1
+Pittsburgh Steelers	2	11	1	.154	244	397	-153	32	1-6	1-5-1	0-5-1	.000	1-8-1	.111	1-3	5L	0-5
+Coastal - 1968 Regular Season
+Coastal Division Team	W	L	T	 Pct	PF	PA	Net Pts	TD	Home	Road	Div	Pct	Conf	Pct	Non-Conf	Streak	Last 5
+Baltimore Colts	13	1	0	.929	402	144	258	50	6-1	7-0	6-0	1.000	10-0	1.000	3-1	8W	5-0
+Los Angeles Rams	10	3	1	.769	312	200	112	37	5-2	5-1-1	3-2-1	.600	6-3-1	.667	4-0	2L	2-2-1
+San Francisco 49ers	7	6	1	.538	303	310	-7	39	3-3-1	4-3	2-3-1	.400	4-5-1	.444	3-1	1W	3-1-1
+Atlanta Falcons	2	12	0	.143	170	389	-219	20	1-6	1-6	0-6	.000	1-9	.100	1-3	4L	1-4
+Central - 1968 Regular Season
+Central Division Team	W	L	T	 Pct	PF	PA	Net Pts	TD	Home	Road	Div	Pct	Conf	Pct	Non-Conf	Streak	Last 5
+Minnesota Vikings	8	6	0	.571	282	242	40	32	4-3	4-3	4-2	.667	6-4	.600	2-2	2W	3-2
+Chicago Bears	7	7	0	.500	250	333	-83	25	2-5	5-2	3-3	.500	5-5	.500	2-2	1L	2-3
+Green Bay Packers	6	7	1	.462	281	227	54	35	2-5	4-2-1	1-4-1	.200	2-7-1	.222	4-0	1W	3-2
+Detroit Lions	4	8	2	.333	207	241	-34	26	1-4-2	3-4	3-2-1	.600	4-5-1	.444	0-3-1	1L	1-3-1

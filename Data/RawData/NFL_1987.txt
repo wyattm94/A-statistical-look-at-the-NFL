@@ -1,0 +1,35 @@
+AFC Central Team	W	L	T	 Pct	PF	PA	Net Pts	TD	Home	Road	Div	Pct	Conf	Pct	Non-Conf	Streak	Last 5
+Cleveland Browns	10	5	0	.667	390	239	151	47	5-2	5-3	5-1	.833	8-3	.727	2-2	3W	3-2
+Houston Oilers	9	6	0	.600	345	349	-4	38	5-2	4-4	5-1	.833	7-4	.636	2-2	2W	3-2
+Pittsburgh Steelers	8	7	0	.533	285	299	-14	31	4-3	4-4	2-4	.333	6-5	.545	2-2	2L	2-3
+Cincinnati Bengals	4	11	0	.267	285	370	-85	30	1-7	3-4	0-6	.000	3-9	.250	1-2	3L	1-4
+AFC East Team	W	L	T	 Pct	PF	PA	Net Pts	TD	Home	Road	Div	Pct	Conf	Pct	Non-Conf	Streak	Last 5
+Indianapolis Colts	9	6	0	.600	300	238	62	31	4-4	5-2	5-3	.625	8-6	.571	1-0	2W	4-1
+New England Patriots	8	7	0	.533	320	293	27	39	5-3	3-4	6-2	.750	8-4	.667	0-3	3W	3-2
+Miami Dolphins	8	7	0	.533	362	335	27	47	4-3	4-4	2-6	.250	5-7	.417	3-0	1L	3-2
+Buffalo Bills	7	8	0	.467	270	305	-35	33	4-4	3-4	4-4	.500	6-6	.500	1-2	2L	2-3
+New York Jets	6	9	0	.400	334	360	-26	39	4-4	2-5	3-5	.375	6-5	.545	0-4	4L	1-4
+AFC West Team	W	L	T	 Pct	PF	PA	Net Pts	TD	Home	Road	Div	Pct	Conf	Pct	Non-Conf	Streak	Last 5
+Denver Broncos	10	4	1	.700	379	288	91	45	7-1	3-3-1	7-1	.875	8-3	.727	2-1-1	2W	4-1
+Seattle Seahawks	9	6	0	.600	371	314	57	46	6-2	3-4	4-3	.571	5-6	.455	4-0	1L	2-3
+San Diego Chargers	8	7	0	.533	253	317	-64	29	4-3	4-4	3-4	.429	6-7	.462	2-0	6L	0-5
+Los Angeles Raiders	5	10	0	.333	301	289	12	35	3-5	2-5	2-6	.250	3-8	.273	2-2	3L	2-3
+Kansas City Chiefs	4	11	0	.267	273	388	-115	30	3-4	1-7	3-5	.375	3-9	.250	1-2	1W	3-2
+National Football Conference - 1987 Regular Season
+NFC Central Team	W	L	T	 Pct	PF	PA	Net Pts	TD	Home	Road	Div	Pct	Conf	Pct	Non-Conf	Streak	Last 5
+Chicago Bears	11	4	0	.733	356	282	74	42	6-2	5-2	7-0	1.000	9-2	.818	2-2	1W	3-2
+Minnesota Vikings	8	7	0	.533	336	335	1	42	5-3	3-4	3-5	.375	6-6	.500	2-1	1L	2-3
+Green Bay Packers	5	9	1	.367	255	300	-45	28	2-5-1	3-4	3-4	.429	4-7	.364	1-2-1	2L	1-4
+Tampa Bay Buccaneers	4	11	0	.267	286	360	-74	33	2-5	2-6	3-4	.429	4-9	.308	0-2	8L	0-5
+Detroit Lions	4	11	0	.267	269	384	-115	27	1-6	3-5	2-5	.286	4-7	.364	0-4	1W	2-3
+NFC East Team	W	L	T	 Pct	PF	PA	Net Pts	TD	Home	Road	Div	Pct	Conf	Pct	Non-Conf	Streak	Last 5
+Washington Redskins	11	4	0	.733	379	285	94	47	6-1	5-3	7-1	.875	9-3	.750	2-1	1W	4-1
+Philadelphia Eagles	7	8	0	.467	337	380	-43	40	4-4	3-4	3-5	.375	4-7	.364	3-1	2W	3-2
+St. Louis Cardinals	7	8	0	.467	362	368	-6	46	4-3	3-5	3-5	.375	7-7	.500	0-1	1L	3-2
+Dallas Cowboys	7	8	0	.467	340	348	-8	38	3-4	4-4	4-4	.500	5-7	.417	2-1	2W	2-3
+New York Giants	6	9	0	.400	280	312	-32	32	5-3	1-6	3-5	.375	4-8	.333	2-1	2W	3-2
+NFC West Team	W	L	T	 Pct	PF	PA	Net Pts	TD	Home	Road	Div	Pct	Conf	Pct	Non-Conf	Streak	Last 5
+San Francisco 49ers	13	2	0	.867	459	253	206	59	6-1	7-1	5-1	.833	10-1	.909	3-1	6W	5-0
+New Orleans Saints	12	3	0	.800	422	283	139	46	6-1	6-2	4-1	.800	8-3	.727	4-0	9W	5-0
+Los Angeles Rams	6	9	0	.400	317	361	-44	38	3-4	3-5	1-5	.167	5-7	.417	1-2	2L	3-2
+Atlanta Falcons	3	12	0	.200	205	436	-231	24	2-6	1-6	1-4	.200	3-8	.273	0-4	3L	1-4
